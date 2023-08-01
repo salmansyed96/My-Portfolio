@@ -1,7 +1,7 @@
 import React from "react";
 import arrayDestruct from "../assets/portfolio/amazon.png";
 import installNode from "../assets/portfolio/G-F.jpeg";
-import navbar from "../assets/portfolio/swiggy.png";
+import navbar from "../assets/portfolio/IT.png";
 import reactParallax from "../assets/portfolio/hy.jpeg";
 import reactSmooth from "../assets/portfolio/swiggy2.jpg";
 import reactWeather from "../assets/portfolio/TODo.jpeg";
@@ -10,7 +10,7 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: arrayDestruct, 
       
     },
     {
