@@ -1,9 +1,9 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/amazon.png";
+import arrayDestruct from "../assets/portfolio/Amazonn.png";
 import installNode from "../assets/portfolio/G-F.jpeg";
-import navbar from "../assets/portfolio/IT.png";
-import reactParallax from "../assets/portfolio/hy.jpeg";
-import reactSmooth from "../assets/portfolio/swiggy2.jpg";
+import navbar from "../assets/portfolio/swiggy2.jpg";
+import reactParallax from "../assets/portfolio/h&m-web.jpeg";
+import reactSmooth from "../assets/portfolio/DIgital .png";
 import reactWeather from "../assets/portfolio/TODo.jpeg";
 
 const Portfolio = () => {

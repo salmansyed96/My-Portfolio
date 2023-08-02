@@ -1,5 +1,3 @@
-import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -8,6 +6,7 @@ import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/node.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import OutSystems from "../assets/out.jpeg";
 
 const Experience = () => {
   const techs = [
@@ -58,6 +57,12 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 8,
+      src: OutSystems,
+      title: "OutSystems",
+      style: "shadow-red-500",
     },
   ];
 
